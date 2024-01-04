@@ -17,7 +17,7 @@ Here are some of my key skills:
 - 🎓 **Continuous Learning**: Always keen on staying updated with the latest trends and technologies in my field.
 
 ## Languages & Tools
-![](https://github.com/RobertaMi89/loghi/blob/main/ai.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/ps.png) ![](https://github.com/RobertaMi89/loghi/blob/main/html.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/css.png) ![](https://github.com/RobertaMi89/loghi/blob/main/JavaScript-logo.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/bootstrap.png) ![](https://github.com/RobertaMi89/loghi/blob/main/React-icon.svg.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/postman.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/sass.jpeg) ![](https://github.com/RobertaMi89/loghi/blob/main/vs.jpeg)
+![](https://github.com/RobertaMi89/loghi/blob/main/ai.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/ps.png) ![](https://github.com/RobertaMi89/loghi/blob/main/html.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/css.png) ![](https://github.com/RobertaMi89/loghi/blob/main/JavaScript-logo.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/bootstrap.png) ![](https://github.com/RobertaMi89/loghi/blob/main/React-icon.svg.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/sass.jpeg)  ![](https://github.com/RobertaMi89/loghi/blob/main/postman.png) ![](https://github.com/RobertaMi89/loghi/blob/main/vs.jpeg)
 
 ## Contact
 
