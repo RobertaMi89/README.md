@@ -14,8 +14,10 @@ Here are some of my key skills:
 
 - 🎨 **Graphic Design**: Crafting eye-catching and cohesive graphics.
 - 💻 **Front-End Development**: Experience in building responsive and performant user interfaces.
-- 🚀 **Preferred Technologies**: HTML, CSS, JavaScript, React, etc.
 - 🎓 **Continuous Learning**: Always keen on staying updated with the latest trends and technologies in my field.
+
+## Languages & Tools
+![](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png=200*200)
 
 ## Contact
 
