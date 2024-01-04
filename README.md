@@ -18,7 +18,7 @@ Here are some of my key skills:
 
 ## Languages & Tools
 ![](https://github.com/RobertaMi89/loghi/blob/main/ai.png)    ![](https://github.com/RobertaMi89/loghi/blob/main/ps.png)    ![](https://github.com/RobertaMi89/loghi/blob/main/html.png)   ![](https://github.com/RobertaMi89/loghi/blob/main/css.png)      ![](https://github.com/RobertaMi89/loghi/blob/main/bootstrap.png)  
-![](https://github.com/RobertaMi89/loghi/blob/main/javascript.jpg)   ![](https://github.com/RobertaMi89/loghi/blob/main/React-icon.svg.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/postman.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/sass.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/vs.jpeg)
+![](https://github.com/RobertaMi89/loghi/blob/main/javascript.jpg)   ![](https://github.com/RobertaMi89/loghi/blob/main/React-icon.svg.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/postman.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/images.jpeg)  ![](https://github.com/RobertaMi89/loghi/blob/main/vs.jpeg)
 
 ## Contact
 
