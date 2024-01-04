@@ -17,7 +17,7 @@ Here are some of my key skills:
 - 🎓 **Continuous Learning**: Always keen on staying updated with the latest trends and technologies in my field.
 
 ## Languages & Tools
-![](https://github.com/RobertaMi89/loghi/blob/main/ai.png)
+![](https://github.com/RobertaMi89/loghi/blob/main/ai.png) ![](https://github.com/RobertaMi89/loghi/blob/main/ps.png)
 
 ## Contact
 
