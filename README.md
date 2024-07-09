@@ -4,7 +4,7 @@ I'm Roberta, a passionate graphic designer and front-end developer with a knack 
 
 ## Who I Am
 
-- 💼 Currently studyng as a Front-End Developer at Epicode school.
+- 💼 Currently studyng as a Front-End Developer.
 - 🎓 I have a background in Graphic Designer.
 - 🔍 Always on the lookout for new challenges and learning opportunities.
 
@@ -22,7 +22,7 @@ Here are some of my key skills:
 ## Contact
 
 - 📧 Email: roberta.miosi@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/roberta-miosi/
+- 🔗 LinkedIn: https://www.linkedin.com/in/roberta-miosi-frontend-developer/
 
 ## Contributions and Feedback
 
