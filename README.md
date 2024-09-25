@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-<div>
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/giphy.webp" alt="Descrizione dell'immagine" style="width:600px; height:200px; float: left; margin-right: 20px;" />
+<div style="width:100%">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/giphy.webp" alt="Descrizione dell'immagine" style="width:600px; float: left; margin-right: 20px;" />
   <p style="margin: 0;">I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing digital experiences.</p>
 </div>
 
