@@ -8,14 +8,6 @@ I'm Roberta, a passionate graphic designer and front-end developer with a knack 
 - 🎓 I have a background in Graphic Designer.
 - 🔍 Always on the lookout for new challenges and learning opportunities.
 
-## My Projects
-
-![image](https://github.com/user-attachments/assets/5663b84d-fd90-4de7-b4fd-f4c629ce44b7)
-https://ai-story-teller-3wmv.vercel.app/
-
-![image](https://github.com/user-attachments/assets/5534a71c-a113-472c-a187-270b87a8b0ef)
-https://heraclea.vercel.app/
-
 ## Skills
 
 Here are some of my key skills:
@@ -32,6 +24,14 @@ Here are some of my key skills:
 - 📧 Email: roberta.miosi@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/roberta-miosi-frontend-developer/
 
+## My Projects
+
+[![image](https://github.com/user-attachments/assets/e843d027-8d55-4828-b268-ae4cb9b28a52)](https://ai-story-teller-3wmv.vercel.app/)
+
+
+![image](https://github.com/user-attachments/assets/b1a44338-74a3-41bd-968e-10ef8628e67a)
+
+https://heraclea.vercel.app/
 ## Contributions and Feedback
 
 I'm open to contributions and feedback on any project. Feel free to open an issue or pull request if you have suggestions or corrections to share.
