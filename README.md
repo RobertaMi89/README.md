@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+<iframe src="https://giphy.com/embed/l7zabeVIt16efVp6wg" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phantomwallet-l7zabeVIt16efVp6wg"></a></p>
+
 I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing digital experiences.
 
 ## Who I Am
