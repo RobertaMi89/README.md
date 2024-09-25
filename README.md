@@ -1,13 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<div style="width:100%; background-color:#1d1d1d; padding:10px; border-radius:8px;">
-  <a href="https://giphy.com/gifs/l7zabeVIt16efVp6wg" target="_blank">
-    <img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" alt="GIF"  />
-  </a>
-</div>
-
-
-
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9"></a></p>
 
 
 I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing digital experiences.
