@@ -1,9 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/giphy.webp" alt="Descrizione dell'immagine" style="width:300px; margin-right: 20px; vertical-align: top;" />
-<div>  <span style="margin: 0;">I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing digital experiences.</span> </div>
+<div style="overflow: hidden;">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/giphy.webp" alt="Descrizione dell'immagine" style="width:300px; float: left; margin-right: 20px;" />
+  <p style="margin: 0;">I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing digital experiences.</p>
 </div>
+
 
 ## Who I Am
 
