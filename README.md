@@ -27,11 +27,9 @@ Here are some of my key skills:
 ## My Projects
 
 [![image](https://github.com/user-attachments/assets/e843d027-8d55-4828-b268-ae4cb9b28a52)](https://ai-story-teller-3wmv.vercel.app/)
+[![image](https://github.com/user-attachments/assets/b1a44338-74a3-41bd-968e-10ef8628e67a)](https://heraclea.vercel.app/)
+[![image](https://github.com/user-attachments/assets/5cdd375c-8cfb-4e9c-9ec9-33f6ac17bea9)](https://myfarm-black.vercel.app/)
 
-
-![image](https://github.com/user-attachments/assets/b1a44338-74a3-41bd-968e-10ef8628e67a)
-
-https://heraclea.vercel.app/
 ## Contributions and Feedback
 
 I'm open to contributions and feedback on any project. Feel free to open an issue or pull request if you have suggestions or corrections to share.
