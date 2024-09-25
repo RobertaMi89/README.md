@@ -1,10 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-<div style="max-width:300px; width:100%;color:"#1d1d1d">
+<div style="width:100%; background-color:#1d1d1d; padding:10px; border-radius:8px;">
   <a href="https://giphy.com/gifs/l7zabeVIt16efVp6wg" target="_blank">
     <img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" alt="GIF" style="width:100%; height:auto;" />
   </a>
 </div>
+
 
 
 
