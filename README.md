@@ -1,6 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 
-[![GIF](https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif)](https://giphy.com/gifs/l7zabeVIt16efVp6wg)
+<a href="https://giphy.com/gifs/l7zabeVIt16efVp6wg" target="_blank">
+  <img src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif" alt="GIF" style="width:100%; max-width:300px; height:auto;" />
+</a>
+
 
 
 I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing digital experiences.
