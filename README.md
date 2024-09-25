@@ -26,9 +26,10 @@ Here are some of my key skills:
 
 ## My Projects
 
-[![image](https://github.com/RobertaMi89/loghi/blob/main/progetti/AIstory teller.png)](https://ai-story-teller-3wmv.vercel.app/)
-[![image](https://github.com/RobertaMi89/loghi/main/progetti/heraclea.png)](https://heraclea.vercel.app/)
-[![image](https://github.com/RobertaMi89/loghi/main/progetti/farm.png)](https://myfarm-black.vercel.app/)
+[![AI Story Teller](https://github.com/RobertaMi89/loghi/raw/main/progetti/AIstoryTteller.png)](https://ai-story-teller-3wmv.vercel.app/)
+[![Heraclea](https://github.com/RobertaMi89/loghi/raw/main/progetti/heraclea.png)](https://heraclea.vercel.app/)
+[![Farm](https://github.com/RobertaMi89/loghi/raw/main/progetti/farm.png)](https://myfarm-black.vercel.app/)
+
 
 ## Contributions and Feedback
 
