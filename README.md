@@ -24,13 +24,6 @@ Here are some of my key skills:
 - 📧 Email: roberta.miosi@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/roberta-miosi-frontend-developer/
 
-## My Projects
-
-[![AI Story Teller](https://github.com/RobertaMi89/loghi/raw/main/progetti/AIstoryTteller.png)](https://ai-story-teller-3wmv.vercel.app/)
-[![Heraclea](https://github.com/RobertaMi89/loghi/raw/main/progetti/heraclea.png)](https://heraclea.vercel.app/)
-[![Farm](https://github.com/RobertaMi89/loghi/raw/main/progetti/farm.png)](https://myfarm-black.vercel.app/)
-
-
 ## Contributions and Feedback
 
 I'm open to contributions and feedback on any project. Feel free to open an issue or pull request if you have suggestions or corrections to share.
