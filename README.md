@@ -33,6 +33,9 @@ Here are some of my key skills:
 <a href="https://robertami89.github.io/MeteoApp/">
   <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/meteoApp.png" alt="Meteo App" style="height:200px;">
 </a>
+<a href="https://traveltodolist.vercel.app/">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/travel-to-do-list1.png" alt="to do list" style="height:200px;">
+</a>
 
 
 
