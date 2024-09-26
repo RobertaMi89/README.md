@@ -24,7 +24,7 @@ Here are some of my key skills:
 [![AI Story Teller](https://github.com/RobertaMi89/loghi/raw/main/progetti/AIstoryTeller.png)](https://ai-story-teller-3wmv.vercel.app/)
 [![Heraclea](https://github.com/RobertaMi89/loghi/raw/main/progetti/heraclea.png)](https://heraclea.vercel.app/)
 [![Farm](https://github.com/RobertaMi89/loghi/raw/main/progetti/farm.png)](https://myfarm-black.vercel.app/)
-[![Meteo](https://github.com/RobertaMi89/loghi/raw/main/progetti/meteoApp.png)(https://robertami89.github.io/MeteoApp/)
+[![Meteo](https://github.com/RobertaMi89/loghi/raw/main/progetti/meteoApp.png)](https://robertami89.github.io/MeteoApp/)
 
 
 ## Contact
