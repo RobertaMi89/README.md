@@ -1,8 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 
-<div style="text-align: center;">
-  <img src="https://github.com/RobertaMi89/loghi/blob/main/me.webp" alt="Roberta" style="width:300px;">
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/RobertaMi89/loghi/blob/main/me.webp" alt="Roberta" style="width:400px;">
 </div>
+
 
 
 I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing 
