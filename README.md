@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+![](https://github.com/RobertaMi89/loghi/blob/main/me.webp)
+
 I'm Roberta, a passionate graphic designer and front-end developer with a knack for crafting engaging and visually appealing 
 
 ## Who I Am
