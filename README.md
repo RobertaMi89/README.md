@@ -22,16 +22,16 @@ Here are some of my key skills:
 ## My Latest projects
 
 <a href="https://ai-story-teller-3wmv.vercel.app/">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/AIstoryTeller.png" alt="AI Story Teller" style="height:400px;">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/AIstoryTeller.png" alt="AI Story Teller" style="height:200px;">
 </a>
 <a href="https://heraclea.vercel.app/">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/heraclea.png" alt="Heraclea" style="height:400px;">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/heraclea.png" alt="Heraclea" style="height:200px;">
 </a>
 <a href="https://myfarm-black.vercel.app/">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/farm.png" alt="Farm" style="height:400px;">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/farm.png" alt="Farm" style="height:200px;">
 </a>
 <a href="https://robertami89.github.io/MeteoApp/">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/meteoApp.png" alt="Meteo App" style="height:400px;">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/meteoApp.png" alt="Meteo App" style="height:200px;">
 </a>
 
 
