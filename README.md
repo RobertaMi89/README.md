@@ -19,6 +19,14 @@ Here are some of my key skills:
 ## Languages & Tools
 ![](https://github.com/RobertaMi89/loghi/blob/main/ai.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/ps.png) ![](https://github.com/RobertaMi89/loghi/blob/main/html.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/css.png) ![](https://github.com/RobertaMi89/loghi/blob/main/JavaScript-logo.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/typescript.jpg) ![](https://github.com/RobertaMi89/loghi/blob/main/bootstrap.png)  ![](https://github.com/RobertaMi89/loghi/blob/main/tailwind.jpg) ![](https://github.com/RobertaMi89/loghi/blob/main/React-icon.svg.png)   ![](https://github.com/RobertaMi89/loghi/blob/main/next.jpg) ![](https://github.com/RobertaMi89/loghi/blob/main/sass.jpeg)  ![](https://github.com/RobertaMi89/loghi/blob/main/postman.png) ![](https://github.com/RobertaMi89/loghi/blob/main/vs.jpeg)
 
+## My Projects
+
+[![AI Story Teller](https://github.com/RobertaMi89/loghi/raw/main/progetti/AIstoryTeller.png)](https://ai-story-teller-3wmv.vercel.app/)
+[![Heraclea](https://github.com/RobertaMi89/loghi/raw/main/progetti/heraclea.png)](https://heraclea.vercel.app/)
+[![Farm](https://github.com/RobertaMi89/loghi/raw/main/progetti/farm.png)](https://myfarm-black.vercel.app/)
+[![Meteo](https://github.com/RobertaMi89/loghi/raw/main/progetti/meteoApp.png)(https://robertami89.github.io/MeteoApp/)
+
+
 ## Contact
 
 - 📧 Email: roberta.miosi@gmail.com
