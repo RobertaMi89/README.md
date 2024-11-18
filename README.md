@@ -44,6 +44,7 @@ Here are some of my key skills:
 <a href="https://il-covo-del-ramingo.vercel.app/" target="_blank">
   <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/Il_covo_del_Ramingo.png" alt="il covo del ramingo" style="height:200px;">     
 </a>
+
 ## Contact
 
 - 📧 Email: roberta.miosi@gmail.com
