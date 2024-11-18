@@ -39,7 +39,7 @@ Here are some of my key skills:
   <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/travel-to-do-list1.png" alt="to do list" style="height:200px;">
 </a>
 <a href="https://scb-app-livid.vercel.app/" target="_blank">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/SCBApp.png" alt="simple contact book" style="height:200px;">     
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/SCB-App.png" alt="simple contact book">     
 </a>
 
 
