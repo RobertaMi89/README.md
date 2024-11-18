@@ -41,8 +41,8 @@ Here are some of my key skills:
 <a href="https://scb-app-livid.vercel.app/" target="_blank">
   <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/SCB-App.png" alt="simple contact book" style="height:200px;">     
 </a>
-<a href="[https://scb-app-livid.vercel.app/](https://il-covo-del-ramingo.vercel.app/)" target="_blank">
-  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/il_covo_del_Ramingo.png" alt="il covo del ramingo" style="height:200px;">     
+<a href="https://il-covo-del-ramingo.vercel.app/" target="_blank">
+  <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/Il_covo_del_Ramingo.png" alt="il covo del ramingo" style="height:200px;">     
 </a>
 ## Contact
 
