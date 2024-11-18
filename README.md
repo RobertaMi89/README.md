@@ -42,7 +42,6 @@ Here are some of my key skills:
   <img src="https://github.com/RobertaMi89/loghi/raw/main/progetti/SCB-App.png" alt="simple contact book" style="height:200px;">     
 </a>
 
-
 ## Contact
 
 - 📧 Email: roberta.miosi@gmail.com
